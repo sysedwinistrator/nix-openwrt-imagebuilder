@@ -9,8 +9,9 @@ head (
     concatMap (file:
       let
         m = match "(.+)\.nix" file;
+        isRC = (match "(.+-rc[0-9]+)\.nix" file) != null;
       in
-        if m == null
+        if (m == null) || isRC
         then []
         else m
     ) (
