@@ -162,7 +162,7 @@
   packages."mipsel_mips32"."base".sha256 = "1pyjja43m3pxqsvi3x2966nifvkc693mdzr24x5f9my8mzc91pfc";
   packages."mipsel_mips32"."luci".sha256 = "1y7lkhd84q5jpzbq115zb55xj7k9lra6rmdcgiifi0b3ixc38yh1";
   packages."mipsel_mips32"."packages".sha256 = "18sawlw6k5dj2qm7w800ymqi1py18x0lsbgr2jkgmk2qhyzahm3c";
-  packages."mipsel_mips32"."routing".sha256 = "";
+  packages."mipsel_mips32"."routing".sha256 = "06f72kqg71zy3mvp89n12m27icph7fwa0mn1swp7y1wnaj1mn19h";
   packages."mipsel_mips32"."telephony".sha256 = "0zhdm883kn1hah6p8wirh19aqp99im2mvsvss8vrf6ic12ji2dfv";
   targets."bcm47xx"."legacy".sha256 = "0m4w0i88zb8yjb3dckb5n90y9zn5axfcgbfjjkbnhs6fxx6xbghc";
   targets."bcm47xx"."legacy".packagesArch = "mipsel_mips32";
