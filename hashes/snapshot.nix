@@ -134,7 +134,7 @@
   targets."ramips"."rt288x".sha256 = "0s2v6w7bjm0zhmc83r2wbbbkgsvkpn2jq83d5gwl7vnczh0kiapq";
   targets."ath79"."mikrotik".sha256 = "12hzkv0xkd2sj8sr3fn7k69a8sk7g3w5d9lrr5iz1ldhx7x9xqj9";
   targets."ath79"."mikrotik".packagesArch = "mips_24kc";
-  targets."ath79"."generic".sha256 = "1qfkmra4apf3sskmc60qp3klv3l79bdymx1pv88jzima8wm5vl8v";
+  targets."ath79"."generic".sha256 = "0d68l3npyfqyzhlh7xhw85fylx795cd4zgmvvp4w42r6pv6il0bz";
   targets."ath79"."generic".packagesArch = "mips_24kc";
   targets."ath79"."tiny".sha256 = "1c62gy4lg4gr5018aflvscw0rdvkxabfirsc5q9lwcq6fqj5ir3q";
   targets."ath79"."tiny".packagesArch = "mips_24kc";
