@@ -26,9 +26,9 @@
   targets."realtek"."rtl839x".packagesArch = "mips_24kc";
   packages."mips_24kc"."base".sha256 = "0kk32hliv2k5h3dwfnxvzqyjqpyvgy6yicph3h3vqw6kia7sqdy9";
   packages."mips_24kc"."luci".sha256 = "0m391q4phygx12g7kbgxgvccywyjd863pqinc5zaxvj00k8gqsmj";
-  packages."mips_24kc"."packages".sha256 = "13sfandyr50fknimmr8720kpn8malhvlf8lj37c5qala0wxzmnns";
-  packages."mips_24kc"."routing".sha256 = "0wvxnv15xxl6ajzkdywkz7zp3fi1rwsqqgy9rq92czjfk4fv3lzf";
-  packages."mips_24kc"."telephony".sha256 = "00bcgr2yzwlq8xq1fdlc4yzj93mfslxq30a9v5ryqr1y292lqlyg";
+  packages."mips_24kc"."packages".sha256 = "1a17labgzgzil7lyw2jnsjf60j6vnv382d3s293jmlhlllyzmj6s";
+  packages."mips_24kc"."routing".sha256 = "1rc9jzrx8ljbg6smfmmv35b4j8wr9hrlrx438j3jnlz2gncr4s0j";
+  packages."mips_24kc"."telephony".sha256 = "0jhkc5jm1hrgaqh4hms7hcvmc6cd4cxivccljnrpp33zqr8bhir1";
   targets."realtek"."rtl930x".sha256 = "1gr4inqrvc1ikz9v3ky16xqa9q995586jrmnbmqp3aavk47bll73";
   targets."realtek"."rtl930x".packagesArch = "mips_24kc";
   targets."realtek"."rtl931x".sha256 = "0j7qk6byd6xinmwjqgll6g3zm9n6j1hg4r4s2fcjscj3ixbz4pm2";
@@ -69,8 +69,8 @@
   targets."pistachio"."generic".packagesArch = "mipsel_24kc_24kf";
   packages."mipsel_24kc_24kf"."base".sha256 = "1vq305y8hbkfjshk8n5q82bz0ch9c1r3v16b03wgsvw8y5644p5c";
   packages."mipsel_24kc_24kf"."luci".sha256 = "0ncrwh9mka9904x7gvbgv8ridzny41q3hms0lbwvqzavwbynh2yr";
-  packages."mipsel_24kc_24kf"."packages".sha256 = "0r4yg7yy7ggz3ybvcnvp0agi7mnp78cq8v2jxy3lgvpy11csj9n3";
-  packages."mipsel_24kc_24kf"."routing".sha256 = "15h0v2ay7504zhsisp1wjvhs8n3id2sc2k92q8zsyc1jhwb896wk";
+  packages."mipsel_24kc_24kf"."packages".sha256 = "1w86hkg01v2x1x59cr2zansf2kg0ha4mmx1ip3i0fg0rc87bfpqd";
+  packages."mipsel_24kc_24kf"."routing".sha256 = "0z5hmm9lvs16xdy98szf1av3lpivf4mn4a7m8gqbv2fbqp7rzhhl";
   packages."mipsel_24kc_24kf"."telephony".sha256 = "16qq9lpdlwyg6zk77dfvii1h8p1dd6gybffygqq3zhlmwlws6pmc";
   targets."tegra"."generic".sha256 = "0i2yjmp1mrwhcck572laag5wzi7rr7jdcyk4ly4arz62js6ixarv";
   targets."tegra"."generic".packagesArch = "arm_cortex-a9_vfpv3-d16";
