@@ -36,9 +36,9 @@
   targets."mpc85xx"."p2020".packagesArch = "powerpc_8548";
   packages."powerpc_8548"."base".sha256 = "02vbgdygq9mipsll4bd9bkd65nb7n14cwws919p0ilabywdmkhvd";
   packages."powerpc_8548"."luci".sha256 = "1ap01z7dx5gfbx2h98ws5y6r39kivrkl3scy0zdgk5ag890bsh97";
-  packages."powerpc_8548"."packages".sha256 = "0c363fp2kwnw2bp4qq36d64dbsr3abfilhvv6ysc8jwgs1g0xb8d";
-  packages."powerpc_8548"."routing".sha256 = "0lllibi2js1y0vzzyi4zvqx1s408l4g0kpclkl8zybz8k1dmdpaf";
-  packages."powerpc_8548"."telephony".sha256 = "0ncynhzxhn37rfdl1hsp7r7hq8hv7maf0d1n18fg4mrjb7qfv3ff";
+  packages."powerpc_8548"."packages".sha256 = "1mgncwcyp46p0izdyq5k8ihhv65yfbfx5cd76mqqxld3y3vbdqxv";
+  packages."powerpc_8548"."routing".sha256 = "01qvbz0yrri9zy61bbk02nh2b0bmc4z708dxj0f0ac94ch5c4jj7";
+  packages."powerpc_8548"."telephony".sha256 = "1kfqxkr68g4rp4jh4b1fqgajhi3vfn7xggnyl80597q8v67a282q";
   targets."mpc85xx"."p1010".sha256 = "01pvahjsr17jvbgk3zz868pc2mrknck8jmbm1ajhpf8vrdiimnlv";
   targets."mpc85xx"."p1010".packagesArch = "powerpc_8548";
   targets."mpc85xx"."p1020".sha256 = "1npsq8rxvnm565l2i94jnkzh1fxgcpnk4wkqj0hay1ybnm1v6s2i";
@@ -260,9 +260,9 @@
   targets."x86"."generic".packagesArch = "i386_pentium4";
   packages."i386_pentium4"."base".sha256 = "1q299ha1dnqxw2msq375iiv8hqwi2wh7p1qbxqrfy007dn0q63mg";
   packages."i386_pentium4"."luci".sha256 = "0znf8nh82vb9p06a1z9bfcifi4xiwyxrgrvcxs6gxmv42vi54bfr";
-  packages."i386_pentium4"."packages".sha256 = "1cc6fvmy00nr91r7bxrph5rn9lwpalazl0hmbynymll0l5n56kz1";
-  packages."i386_pentium4"."routing".sha256 = "1j3y9kblkq378fmwrkz91f9z9c9v61qnnd69wgsig929c30gqn9v";
-  packages."i386_pentium4"."telephony".sha256 = "0simfngx9y4zjgwfvsfs69z2mzif22lycmz33kqfczaczh1wyzk1";
+  packages."i386_pentium4"."packages".sha256 = "1pqqk6djmnyqdw51akqvwhbcn0jvvx879vhc127y2rc7lw5gv0y8";
+  packages."i386_pentium4"."routing".sha256 = "0dv8c4hfm27ff8irmgk5iv4mn7sg499pg5gsvcd5980n0l74yc0p";
+  packages."i386_pentium4"."telephony".sha256 = "0c6gigr41nnd00lyifpvna7r6h2sz49b30widjwrnwk911gfr9vl";
   targets."x86"."64".sha256 = "1hygdaa18qsj9vyn91xy3ylm0xzlzhlbzhkdj1f6knir49wmzhz6";
   targets."x86"."64".packagesArch = "x86_64";
   packages."x86_64"."base".sha256 = "1xkb02ccvbdavbdclpakb4fdmckm89lmixahwi6v2im7mq89g9mb";
