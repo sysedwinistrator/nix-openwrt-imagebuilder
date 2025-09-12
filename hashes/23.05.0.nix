@@ -3,9 +3,9 @@
   targets."kirkwood"."generic".packagesArch = "arm_xscale";
   packages."arm_xscale"."base".sha256 = "1y5q74yjl61djdx9a02kix0cqq4dhp5ck6qs292x3lqqyszlnbyl";
   packages."arm_xscale"."luci".sha256 = "0rl9bazvangscfpg5nfbv1m2dmm8gqihssxfajm2l2lk3lm7cd4s";
-  packages."arm_xscale"."packages".sha256 = "1gv6ydxjc7wlaimgidf0b54jvisx8zkrrnd3n5p6dc5g76gjs8xm";
-  packages."arm_xscale"."routing".sha256 = "0vhkvfzffrlqa1gxbcfkjijrs73s637pycq1388v5ca71v5a7szf";
-  packages."arm_xscale"."telephony".sha256 = "1ahapzbay24kfsfvnh4h2hmddjn3ay8ncqycdk2mmqsa11hksfk4";
+  packages."arm_xscale"."packages".sha256 = "1iks1hmmm03indffb6habfsaziix19ai1p9lar6xypwrkbqrmvxs";
+  packages."arm_xscale"."routing".sha256 = "094qp5vmn7xlgfpqwysf7v3b9j7vczlwdvajr2l1dqr1d2flnj19";
+  packages."arm_xscale"."telephony".sha256 = "1s9jpb15ksw6dzbqx4z1mynnl6w8y6kcgfikk3ad6hawx3lpc07b";
   targets."apm821xx"."sata".sha256 = "1immx2ciymazg4qy53pwgg73jj9icam8ijv1ai4jh964sdgi0x00";
   targets."apm821xx"."sata".packagesArch = "powerpc_464fp";
   packages."powerpc_464fp"."base".sha256 = "0yhahkwbmlnxbr270hvj8cc6yhv43vzc30k59cdg056p2x0vns8a";
@@ -192,9 +192,9 @@
   targets."sunxi"."cortexa8".packagesArch = "arm_cortex-a8_vfpv3";
   packages."arm_cortex-a8_vfpv3"."base".sha256 = "0r2jmyh5h8vnk57l2b2gh867bhivmv3zw4np0d7znx8iiw8cmydc";
   packages."arm_cortex-a8_vfpv3"."luci".sha256 = "0ssppiw1wh1vm83gadxdaagrby7bizhk8bmj3pwinyp7q4nmn5gq";
-  packages."arm_cortex-a8_vfpv3"."packages".sha256 = "056sripxn22qc36sypmjbawqr0lflqr3by3f60gp4c2whx4cs1da";
-  packages."arm_cortex-a8_vfpv3"."routing".sha256 = "1h76ssq6vifavskq3y6cip0vwm4vlmiqvpic7f2ixp1jqidkf5hg";
-  packages."arm_cortex-a8_vfpv3"."telephony".sha256 = "0cd8yq95gbs07gx4yki1j9lwdc96zrqw0az57d0w4iddc2hqigq0";
+  packages."arm_cortex-a8_vfpv3"."packages".sha256 = "0nmra9xaafw14hi2sx83fg9ddqrdyp5lm2prwj7vavaz01m2q0kp";
+  packages."arm_cortex-a8_vfpv3"."routing".sha256 = "087f02q4jcwk0kb1nivkjwjw4yrjsxkhmgxqigjlj4y3aamdwmsm";
+  packages."arm_cortex-a8_vfpv3"."telephony".sha256 = "0lrsqyf8apq1ma45hbj3pl39xih7m2yzn1sm9n3x4qnqhvmb99j5";
   targets."sunxi"."cortexa53".sha256 = "0k4fl6vk71cp7h1ks0q6ar1z73dbhij5am7z6g6d49mrdk8y4gdd";
   targets."sunxi"."cortexa53".packagesArch = "aarch64_cortex-a53";
   targets."sunxi"."cortexa7".sha256 = "1h2v2yvr34myj7qwriynj958fj9kqd86d66qnypablwbafxindrk";
