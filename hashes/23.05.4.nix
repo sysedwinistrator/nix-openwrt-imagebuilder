@@ -54,9 +54,9 @@
   targets."octeon"."generic".packagesArch = "mips64_octeonplus";
   packages."mips64_octeonplus"."base".sha256 = "140i241g1mlnryabag9l2avzrviyn8s9lqjcyp26qli903azvzxz";
   packages."mips64_octeonplus"."luci".sha256 = "15flwni8gjd9b0ymwz28hr9n2hpk11hikqzy4xklf2yp3dqd8wd8";
-  packages."mips64_octeonplus"."packages".sha256 = "0iq8cdznn85r7888346wq2kc962rj7jr8r5xdy2pw9ranba8dnyy";
-  packages."mips64_octeonplus"."routing".sha256 = "1lgqacscczl04qgc8cvqf6psszph0fr578s42a5d762866pw34dl";
-  packages."mips64_octeonplus"."telephony".sha256 = "165li5qrr5a9jm4gc7mw04ihwlc8wkn94q81wvdy7iwqbl72bzp4";
+  packages."mips64_octeonplus"."packages".sha256 = "1lrbk6pk74ym8ny0c3afqvqjxnv4gh5yjxvl2dlfziq2nh68xmcf";
+  packages."mips64_octeonplus"."routing".sha256 = "07jfqqnp1gvmkkdgjw2m7x04v7civa5gdb65j1vdqxf02839z07c";
+  packages."mips64_octeonplus"."telephony".sha256 = "0phma5s408xqzfb94qwx9i39ld83437pnv4qdz66nzk11002nkgj";
   targets."malta"."be".sha256 = "1rbcj6mnjd1qzzs73nrdzx292in14i52wy746c4j13sn91668s0i";
   targets."sifiveu"."generic".sha256 = "176k8qsbmqjd45i4pny67gnsrpqbkmk2zigcxfqnc3zddh88ld4p";
   targets."sifiveu"."generic".packagesArch = "riscv64_riscv64";
@@ -104,9 +104,9 @@
   targets."ramips"."rt3883".packagesArch = "mipsel_74kc";
   packages."mipsel_74kc"."base".sha256 = "0ra06gzalq7y611pz87lpq9l81lpykmxm8id7y5sggrkca1j6byc";
   packages."mipsel_74kc"."luci".sha256 = "1cpcgm8yrjlv9x5615ydxgzy4ljnb00yv0az9qk3qp7sndizrfgb";
-  packages."mipsel_74kc"."packages".sha256 = "0sgxp74lbr8kjyfplzjdkc60vfbpa6hq8i800ixaqm8kznfv6bby";
-  packages."mipsel_74kc"."routing".sha256 = "0zwwm93c7k08vp6z71rk8iknr9jpjnj09a1m8nmjyjw3na1g91k6";
-  packages."mipsel_74kc"."telephony".sha256 = "0ysllrzs328fww1wd7yn27gbnps3z5vrfwl6xjir44yg8yzlx98p";
+  packages."mipsel_74kc"."packages".sha256 = "1v07cvi0m7a9frqkwxwz42bmv81s6xv8mgvq2x2c9afyyqdmxayx";
+  packages."mipsel_74kc"."routing".sha256 = "0mcqmyglqrinz1bvgfwmqdlksypwrfy8h02kv5bxffchifh0abnw";
+  packages."mipsel_74kc"."telephony".sha256 = "1cck2780b7h8vm20swd34rzg1q0xp84yfmacng9h50v4lfinbbv2";
   targets."ramips"."mt76x8".sha256 = "0j0k2gjvcb1jahpfry2aflql9lmiv64g3nyb3jmba7lnyz6n42aw";
   targets."ramips"."mt76x8".packagesArch = "mipsel_24kc";
   targets."ramips"."mt7620".sha256 = "1mxfmifixlshv3kmlagvq82psvv37fijfqa1hmpywh8rnv18p2f2";
