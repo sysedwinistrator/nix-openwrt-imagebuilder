@@ -83,9 +83,9 @@
   targets."imx"."cortexa7".packagesArch = "arm_cortex-a7_neon-vfpv4";
   packages."arm_cortex-a7_neon-vfpv4"."base".sha256 = "11bgkavnkav93iy5ycgdvxzgaj29cvak8i3qc4hxb2haqdzapjvd";
   packages."arm_cortex-a7_neon-vfpv4"."luci".sha256 = "1003jqr33fn31zgbvp1zw9zh8pgy79j14sgjjax32svvrf6y6z93";
-  packages."arm_cortex-a7_neon-vfpv4"."packages".sha256 = "1p2w57aa79xdhprmrg2x0ccp08k2snnpryvmsnjnv27aycqvkg9f";
-  packages."arm_cortex-a7_neon-vfpv4"."routing".sha256 = "1lr8iiaf7yzb9j0ib969bb2cxws2m01nmwhznb32733fjd9rhl3p";
-  packages."arm_cortex-a7_neon-vfpv4"."telephony".sha256 = "0bpysnvcrfbdjjzahjcv1z89kdg7iyhz02cnxvdphkipflrnsn3q";
+  packages."arm_cortex-a7_neon-vfpv4"."packages".sha256 = "18srg9h6a23aa62gj3vn2mcd59c5l4s7w1w6v10x99sq3dl7lamm";
+  packages."arm_cortex-a7_neon-vfpv4"."routing".sha256 = "0cvjg5j00f8rcwk7rv1mygmpmgizyshrkyzaxlgwnab66xjjsbbz";
+  packages."arm_cortex-a7_neon-vfpv4"."telephony".sha256 = "1bgla17v5div6p494h6w11qjqv63h8q1c6br0i3dhbmfbqx7w3ll";
   targets."imx"."cortexa9".sha256 = "0p4amhw97fmzy2vg2rnnxi5i5bx8rwvsx9dxkn8pdv4csv6jby08";
   targets."imx"."cortexa9".packagesArch = "arm_cortex-a9_neon";
   packages."arm_cortex-a9_neon"."base".sha256 = "0f0w94iz789wpwqgscr0xvyxbzv5vsx0pkxhi6f5hzgannnrdc2m";
@@ -249,9 +249,9 @@
   targets."mediatek"."mt7629".packagesArch = "arm_cortex-a7";
   packages."arm_cortex-a7"."base".sha256 = "0qvp6ywjndzqj62fv4q7cfp0ffkncx8knmk8nakympy7cjc7l0hr";
   packages."arm_cortex-a7"."luci".sha256 = "0qkvvr79hs4ci2p637n4p9y5zpyqnjnlx722bd7vc1i3c7qbvkxs";
-  packages."arm_cortex-a7"."packages".sha256 = "1kaz1m2qsl61pfyz9gb14wlwqhia478ikdw0jdfv642j9jq56g7c";
-  packages."arm_cortex-a7"."routing".sha256 = "0p8r1hvmbm7r53y5pqmnja43biw7m7aizra99d0ikagxr6bkyvq6";
-  packages."arm_cortex-a7"."telephony".sha256 = "0mrvncjd9jmikzb14sjjc40qdbxwng52k1x0ym4ba24kgi9b2d2r";
+  packages."arm_cortex-a7"."packages".sha256 = "1c8ad7ysvwq2vbvl0x86gdhgswgdlvy3lb2pf10mi1dgxvbwil6k";
+  packages."arm_cortex-a7"."routing".sha256 = "152c26bpymc6580qdvy1z7alacbvrmppm9y8hqwvc9zsq8icr11p";
+  packages."arm_cortex-a7"."telephony".sha256 = "0qbjlm47xvv1hizbpqa9f344mmvni5282qqbx65kqc4p8ahq0vcs";
   targets."mediatek"."mt7622".sha256 = "04mcyc83wdvgfchvy2x1z4bc5dha1cdf0lsyiyy971kns5i0m86s";
   targets."mediatek"."mt7622".packagesArch = "aarch64_cortex-a53";
   targets."mediatek"."filogic".sha256 = "135qnbh4lfjd007rcak5k22psgya7hz1fcg4sj0fqw1qd5j0riip";
