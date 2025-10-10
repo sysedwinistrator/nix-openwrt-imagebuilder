@@ -62,9 +62,9 @@
   targets."sifiveu"."generic".packagesArch = "riscv64_riscv64";
   packages."riscv64_riscv64"."base".sha256 = "1rhs9bfxk7xym4s1j4fjn390ig172pswb7mxk8490avzvb2hnrg3";
   packages."riscv64_riscv64"."luci".sha256 = "1dxjjhs963sq1v7954g97zjrqhmi2xkqry9mn78pwz79dm7znp5b";
-  packages."riscv64_riscv64"."packages".sha256 = "01q9zd88szj2lmd5b15fh8zxzgyf912kqys5lxgajc0jk0mk5c17";
-  packages."riscv64_riscv64"."routing".sha256 = "1smcd5rfvg8d2wg24zzmgb7l9kw83q914261qxaqybaid6fml6yd";
-  packages."riscv64_riscv64"."telephony".sha256 = "1ibv2m0d3gm4qgdw0sr3982kqk5vbymixs5r54i7h71nvhscllxi";
+  packages."riscv64_riscv64"."packages".sha256 = "08hs0jjb4krk6w8ysvpzxc63sbslnfh7a9mgprraqlza2fn7shhd";
+  packages."riscv64_riscv64"."routing".sha256 = "03zk651xxd86fs18wvipph69ybzlpm33i0ic2rrqsv9hnm8njqq9";
+  packages."riscv64_riscv64"."telephony".sha256 = "09h2sfzbv2cjpxnqxkzr380pcb57drfkb91fcqnbnl6dg00zd1pw";
   targets."pistachio"."generic".sha256 = "0hl9102f9j0207a28012x1h3pi07s80mfpnj3hc4ab4igpa8f85i";
   targets."pistachio"."generic".packagesArch = "mipsel_24kc_24kf";
   packages."mipsel_24kc_24kf"."base".sha256 = "1v4q6g8177pvzy3pfyy20194lkicp3b4ci2kmxnhkfaqa179z5b8";
@@ -296,9 +296,9 @@
   targets."gemini"."generic".packagesArch = "arm_fa526";
   packages."arm_fa526"."base".sha256 = "1f0w43l4rz2q6n9xi3nfs19jhs2d0szl07avai8ffn3ij7ni09lb";
   packages."arm_fa526"."luci".sha256 = "058nv708v3609q3yjc9hj2b86gcwdr611g9xqzdvjbg0cpc3xxzs";
-  packages."arm_fa526"."packages".sha256 = "1p92va1n2pa3l6znqyl0w6gg7bfsxhff4pb4z7x794g8f4jj0hkl";
-  packages."arm_fa526"."routing".sha256 = "10zqar9hx1ij183y56mx9lv578vqvs5ylnqkvbis2c9j0ccr6ls0";
-  packages."arm_fa526"."telephony".sha256 = "17m0vmi8w20jf6d1yj4jwrbr4zk6s07q6gwbzlvn8ibddrf8ggf4";
+  packages."arm_fa526"."packages".sha256 = "1hd875xsf96jy4k3pb70g36jb4jlx2i9sflf35l3sddrqilbqzk9";
+  packages."arm_fa526"."routing".sha256 = "0hmyhf16y6ppgimw234h1fsviml9xscav031k3imbiy93rf5crsx";
+  packages."arm_fa526"."telephony".sha256 = "0h750jqsp7awk7grd3ahf6i9iki7jvczb7a3f33fi9xbn9gm1kq3";
   targets."ipq806x"."generic".sha256 = "0w6znwa52lx40ffvdjrl4xaz0ikxixj9zq6j3a69xfzy2zy41307";
   targets."ipq806x"."generic".packagesArch = "arm_cortex-a15_neon-vfpv4";
   targets."ipq806x"."chromium".sha256 = "10cgyfqrws4sbpgy3lc2jhhd6myx8bfj5z6rx9myp4la3g2wkpj3";
