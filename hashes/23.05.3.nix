@@ -10,9 +10,9 @@
   targets."apm821xx"."sata".packagesArch = "powerpc_464fp";
   packages."powerpc_464fp"."base".sha256 = "14g9x6va8dlh36as5waxn05qc54zyw5vw9fb5wrm2yz4yxby613y";
   packages."powerpc_464fp"."luci".sha256 = "0kmkk735w281f9f6jzyzh8mvfaw41qbrl22d06m56cgpwrspk6ad";
-  packages."powerpc_464fp"."packages".sha256 = "1w4cvzy6s7avl3wx3kjjfakciwd3gp6lxgc2q9wrla0ka13wx7zp";
-  packages."powerpc_464fp"."routing".sha256 = "115yrzmbdj4m759ggnz1igza6bwas9yjx1r96hlmjcqihdz236q2";
-  packages."powerpc_464fp"."telephony".sha256 = "1vn0n4yhacsm0xc7kqih4771ihmdd6xcm1ypb7khagxg02xkix54";
+  packages."powerpc_464fp"."packages".sha256 = "1dnsbjpcz4h0q5rnr47w7wrwm165rgx47ngy8nqg3y2ip7v1xqjk";
+  packages."powerpc_464fp"."routing".sha256 = "0cz7hb7h5439mrl9bbf20pmk8q2g5ll8zjwr4xw87n8hj9hsb7yi";
+  packages."powerpc_464fp"."telephony".sha256 = "0qgafga5w35mb5qh6v5hma9y1cabsdlzdzam74xaf8qabizkfzmw";
   targets."apm821xx"."nand".sha256 = "1b7rjdhd0xg2vn4dgflw33bv1fhlnh5kvqwa5mc71qfq6ci2ccsn";
   targets."apm821xx"."nand".packagesArch = "powerpc_464fp";
   targets."realtek"."rtl838x".sha256 = "19wi1d58xm3gr14akw8yk155iw103dkbfpknzhs4pxyhj5ikjmn0";
@@ -307,7 +307,7 @@
   targets."bcm53xx"."generic".packagesArch = "arm_cortex-a9";
   packages."arm_cortex-a9"."base".sha256 = "0837r03pmy61x1nww89438n6rsyl396ifzim105pmadhzadwcd5x";
   packages."arm_cortex-a9"."luci".sha256 = "14dzvz99ygsrjp28ysxcr5990msh06vbba49j3b2nqhcwx57abdi";
-  packages."arm_cortex-a9"."packages".sha256 = "0wh2zha636dl9anfrjc26m3bv6in7n0blwwxqlcq46vyp275pyc0";
-  packages."arm_cortex-a9"."routing".sha256 = "12jxvksdnssa9k0prq8yla9vxxqsqycmy7y85rpls9p2hqd4d134";
-  packages."arm_cortex-a9"."telephony".sha256 = "16j2lfwlszprjshhbghyrhyywbx2y5vyzdfnn2f029cfwfbvvh1y";
+  packages."arm_cortex-a9"."packages".sha256 = "0n8an57xskbmszfawk3sb2ls4m0a8m44gf44dw3148rid4hrvjwl";
+  packages."arm_cortex-a9"."routing".sha256 = "0xsqdv2l7bvg31zx01941l6r3gl3f5a56847wffpd39fg54z7slq";
+  packages."arm_cortex-a9"."telephony".sha256 = "0z5cr17q5xd203fbdy4ygs8xwvnm75ysy4902g3kcnpb715cais0";
 }
