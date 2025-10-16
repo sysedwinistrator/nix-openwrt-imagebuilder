@@ -168,7 +168,7 @@
   packages."arm_arm1176jzf-s_vfp"."base".sha256 = "1hzj39b0m1diy1wqhgkam0f0q88is64g9acksmgj5yy50qk4xyx0";
   packages."arm_arm1176jzf-s_vfp"."luci".sha256 = "1yzx9f1z1hm1ra4x63qgbjzn2xsljfc89xbdcz1ilj1m79bxrgw5";
   packages."arm_arm1176jzf-s_vfp"."packages".sha256 = "0yvj3zl3vsady6gp33b1mqckg8xh2rpaj6bpkahsm5sip40p89gv";
-  packages."arm_arm1176jzf-s_vfp"."routing".sha256 = "1h0cfmrk703cffm1hqjjqylr7lgk6jn56sb51jm0xzfr7b5m1v8l";
+  packages."arm_arm1176jzf-s_vfp"."routing".sha256 = "0bam80vwh3fzl3f49phd35qax7fx03nxyhk4jbn3rb0c26bc13qy";
   packages."arm_arm1176jzf-s_vfp"."telephony".sha256 = "1l9zdf3h4i2bmf0lbnva7w9b6qlx2kv4fj9ajv1nnncav4j45f3p";
   targets."qualcommax"."ipq807x".sha256 = "08pgzd80cpz8jcjq1nc8q3a4hg9kxkc4n3096xds4a8a1r91kyx1";
   targets."qualcommax"."ipq807x".packagesArch = "aarch64_cortex-a53";
