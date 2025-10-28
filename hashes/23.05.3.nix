@@ -10,9 +10,9 @@
   targets."apm821xx"."sata".packagesArch = "powerpc_464fp";
   packages."powerpc_464fp"."base".sha256 = "14g9x6va8dlh36as5waxn05qc54zyw5vw9fb5wrm2yz4yxby613y";
   packages."powerpc_464fp"."luci".sha256 = "0kmkk735w281f9f6jzyzh8mvfaw41qbrl22d06m56cgpwrspk6ad";
-  packages."powerpc_464fp"."packages".sha256 = "1dnsbjpcz4h0q5rnr47w7wrwm165rgx47ngy8nqg3y2ip7v1xqjk";
-  packages."powerpc_464fp"."routing".sha256 = "0cz7hb7h5439mrl9bbf20pmk8q2g5ll8zjwr4xw87n8hj9hsb7yi";
-  packages."powerpc_464fp"."telephony".sha256 = "0qgafga5w35mb5qh6v5hma9y1cabsdlzdzam74xaf8qabizkfzmw";
+  packages."powerpc_464fp"."packages".sha256 = "1f75y79bm06ha8p86qzdnn8mfn4dgng5arzn8dp6syflwmzicn1l";
+  packages."powerpc_464fp"."routing".sha256 = "0qmka9sc9n6fj0an3sjmach30pyzfbh4cc6qgfy343rxh7digkry";
+  packages."powerpc_464fp"."telephony".sha256 = "18lvxg16lspns7a4x3x33vk7hj3s39y0a4nhiah1b72lb7pw9kxa";
   targets."apm821xx"."nand".sha256 = "1b7rjdhd0xg2vn4dgflw33bv1fhlnh5kvqwa5mc71qfq6ci2ccsn";
   targets."apm821xx"."nand".packagesArch = "powerpc_464fp";
   targets."realtek"."rtl838x".sha256 = "19wi1d58xm3gr14akw8yk155iw103dkbfpknzhs4pxyhj5ikjmn0";
@@ -307,7 +307,7 @@
   targets."bcm53xx"."generic".packagesArch = "arm_cortex-a9";
   packages."arm_cortex-a9"."base".sha256 = "0837r03pmy61x1nww89438n6rsyl396ifzim105pmadhzadwcd5x";
   packages."arm_cortex-a9"."luci".sha256 = "14dzvz99ygsrjp28ysxcr5990msh06vbba49j3b2nqhcwx57abdi";
-  packages."arm_cortex-a9"."packages".sha256 = "0n8an57xskbmszfawk3sb2ls4m0a8m44gf44dw3148rid4hrvjwl";
-  packages."arm_cortex-a9"."routing".sha256 = "0xsqdv2l7bvg31zx01941l6r3gl3f5a56847wffpd39fg54z7slq";
-  packages."arm_cortex-a9"."telephony".sha256 = "0z5cr17q5xd203fbdy4ygs8xwvnm75ysy4902g3kcnpb715cais0";
+  packages."arm_cortex-a9"."packages".sha256 = "1rbpqki3d491xnj3wka67kjynzgv5fq49m93mf298jgvxap2ydxp";
+  packages."arm_cortex-a9"."routing".sha256 = "0czj12wn5wfq2v6j7w7bbcl5s406prb1d3mbxd8rhzpb6fps5x1l";
+  packages."arm_cortex-a9"."telephony".sha256 = "11lbkrw1lfn19xn2z36jsbj7bd7z9j0zwh18sl7car2xq0iyyr2g";
 }
