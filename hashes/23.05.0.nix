@@ -3,9 +3,9 @@
   targets."kirkwood"."generic".packagesArch = "arm_xscale";
   packages."arm_xscale"."base".sha256 = "1g63jmgg809lcpkd3m42m2sgabmfcr08g4pblx59ldm1cwlv21cm";
   packages."arm_xscale"."luci".sha256 = "0rl9bazvangscfpg5nfbv1m2dmm8gqihssxfajm2l2lk3lm7cd4s";
-  packages."arm_xscale"."packages".sha256 = "13cy8qy1a916fng0bd0wi328f42savvn4adva4l5jd0ks2bybhy6";
-  packages."arm_xscale"."routing".sha256 = "16f99qlyakz8376fgp5kv44jls0zyh2i8a4s4vw36af0wapnyb28";
-  packages."arm_xscale"."telephony".sha256 = "0gn9i8pbpyqzmz87c3kn2i87mx07awsfdb1a4s2hqfxpsv6b2if9";
+  packages."arm_xscale"."packages".sha256 = "1hv2c9nlhac5mixalx3sr9mqk1zayjm1nsjssncmrazp73641ggn";
+  packages."arm_xscale"."routing".sha256 = "05p737pk3f1iamirmfx6cvawf7jy5v3k6xfs5dwjmss6lslqqra5";
+  packages."arm_xscale"."telephony".sha256 = "0mjgsy46j48ypxw0ya7dbm2hzln5s665xf17rm2vn78agfg1v2g6";
   targets."apm821xx"."sata".sha256 = "1immx2ciymazg4qy53pwgg73jj9icam8ijv1ai4jh964sdgi0x00";
   targets."apm821xx"."sata".packagesArch = "powerpc_464fp";
   packages."powerpc_464fp"."base".sha256 = "14g9x6va8dlh36as5waxn05qc54zyw5vw9fb5wrm2yz4yxby613y";
@@ -19,9 +19,9 @@
   targets."realtek"."rtl838x".packagesArch = "mips_4kec";
   packages."mips_4kec"."base".sha256 = "1khrl69pq0gv93jpqmfpyczyydkzsdg54r7npfvwrhqldczgcfn9";
   packages."mips_4kec"."luci".sha256 = "11irfd2jd1sa2pqavw2jvg7x28pg66f7wsqyjrz7zgp08035a0x2";
-  packages."mips_4kec"."packages".sha256 = "06vb10wcpwk1gkqcncqzml31ma8fsf1wqw6cqd9zdd21kxvd5a5c";
-  packages."mips_4kec"."routing".sha256 = "0xwi3da1fwpzyav11wghd33yfmp1f812nxyj3bbsz23ic7ghwsc3";
-  packages."mips_4kec"."telephony".sha256 = "126nhx21y4jrvgs8m1jldr0k6ycxq4hry9w42dmji14fxkg96h1i";
+  packages."mips_4kec"."packages".sha256 = "181bmkw48nskarbi4h8vnylzmrmahhhbhvr7mlv3a29xlc7pqy1a";
+  packages."mips_4kec"."routing".sha256 = "1mvmn5zcys9yzhilm7rilfl99951yjbqz9b4mzlfv0nsnn8niw3z";
+  packages."mips_4kec"."telephony".sha256 = "0n4027k1llqm0lm41ii9wr4zf9wan9r7d6kn69650rz2cppj3fih";
   targets."realtek"."rtl839x".sha256 = "07kq8xndjqjvh77v8x447fxmwdvjh4g866hf4h9ymf96p90zsp2k";
   targets."realtek"."rtl839x".packagesArch = "mips_24kc";
   packages."mips_24kc"."base".sha256 = "1xs0fp8g97r4a5qwp3pg647vm0v600l97p5cjnmz639df6qabnr1";
