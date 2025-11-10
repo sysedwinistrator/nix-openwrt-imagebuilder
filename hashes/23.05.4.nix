@@ -143,11 +143,11 @@
   packages."arm_arm1176jzf-s_vfp"."telephony".sha256 = "16yz21b17rcg1sjdg72l15833jygq1lb8r3hgwjsx1mws1pnfsxs";
   targets."bmips"."bcm6318".sha256 = "1i52dw6vw44ywmdjw1dx1plc31h7wqwsn6aa5mnvjbaf5l67q3c3";
   targets."bmips"."bcm6318".packagesArch = "mips_mips32";
-  packages."mips_mips32"."base".sha256 = "1yia1xr5k9cjaj6ar6jf6gsvq350p7zvj0w9lfzyi8gyn4wiy48q";
+  packages."mips_mips32"."base".sha256 = "1swl7h2wz3kcnhbcw7dg30vy084g2dzinjk4z431dpscmkj2h5x0";
   packages."mips_mips32"."luci".sha256 = "0dyn8niaafnxl3vify3ki1v7k93ly89a0f8cmw74z4jnf4hxyywp";
-  packages."mips_mips32"."packages".sha256 = "0s7mysi81jmxdzp0yd90vwzlw97hz9fcv6mkxmkywi6bf1h1vkxy";
-  packages."mips_mips32"."routing".sha256 = "1n64l8m6qlkxcfv916hch5kk5jdixaklfjwydh2wdhk1v23faw8y";
-  packages."mips_mips32"."telephony".sha256 = "1ndr1myndgyddj3v8z2vr0mfly5gzrg439jmwbxv9ckrggrm2ak4";
+  packages."mips_mips32"."packages".sha256 = "1kk6aqajp75zpjvqvm0vmpcqrdghirxvjcrl33xa0qd416bs1g5j";
+  packages."mips_mips32"."routing".sha256 = "1pgfwwn9pjm635zhwmzh6xylj55h7s3diw25dqabpdkri4c8lms5";
+  packages."mips_mips32"."telephony".sha256 = "14wi15qmcpj3xx08yjhb9d5c74psahcmsgsapmn3b82hrf8kbn19";
   targets."bmips"."bcm6362".sha256 = "1wcggy5lzvwp824007k63m8mrp6wqhpybf8bl74712bgcb3h6ggm";
   targets."bmips"."bcm6362".packagesArch = "mips_mips32";
   targets."bmips"."bcm63268".sha256 = "0s77k4bfbs152bbhk5zmjh1wxasbwll7pja33fqf0clvh4h9147r";
